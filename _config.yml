@@ -1,0 +1,39 @@
+
+# Resume configs:
+
+full_name: Saman Nezafat
+title: Saman Nezafat
+description: "Saman Nezafat CV"
+
+pdf: true
+pdf_url: https://github.com/MaziarHeidary2003/cv/raw/gh-pages/maziar_heidary_cv.pdf
+
+docx: true
+docx_url: https://github.com/MaziarHeidary2003/cv/raw/gh-pages/maziar_heidary_cv.docx
+
+github: true
+github_url: https://github.com/MaziarHeidary2003
+
+linkedin: true
+linkedin_url: https://www.linkedin.com/in/MaziarHeidary2003
+
+gmail: true
+gmail_url: maziarheidary@gmail.com
+
+phone: false
+phone_number: ""
+
+footer: false
+site_footer_text: ""
+
+# web pdf creator configs:
+
+URL: https://MaziarHeidary2003.github.io/
+
+# template configs:
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+lang: "en-US"
