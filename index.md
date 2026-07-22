@@ -28,7 +28,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 
 ---
 
-### Kapa (Non-Profit Organization)
+### Kapa (Non-Profit Organization) | Oct 2024 – Jan 2025
 * **Tech Stack**: Python, Django, PostgreSQL
 
 #### Game Logic Handler System for Competition
