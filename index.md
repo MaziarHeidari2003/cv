@@ -1,14 +1,14 @@
-# Maziar Heidary
 
-**Backend Software Engineer**  
-[GitHub](https://github.com/MaziarHeidary2003) | [Email](mailto:maziarheidary1124@gmail.com) | [LinkedIn](https://ir.linkedin.com/in/maziar-heidary-176577380)
+**Github**: [github.com/MaziarHeidary2003](https://github.com/MaziarHeidary2003) | **Email**: [maziarheidary1124@gmail.com](mailto:maziarheidary1124@gmail.com)  
+**LinkedIn**: [linkedin.com/in/maziar-heidary](https://ir.linkedin.com/in/maziar-heidary-176577380)
+
 ---
 
 ## Professional Summary
 
 Backend Software Engineer with over **3 years of experience** building and maintaining high-traffic backend systems. Skilled in setting up **data pipelines**, organizing **background task queues**, and handling complex **payment integrations** for platforms with over **2 million users**. Strong track record of writing clean code and coordinating directly with external partners and payment providers. Proven track record in technical leadership and delivering scalable, distributed solutions in **Go** and **Python**. Open to relocation with visa sponsorship.
 
----
+--- 
 
 ## Work Experience
 

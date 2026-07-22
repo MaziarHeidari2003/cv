@@ -5,25 +5,26 @@ import pypandoc
 with open("_config.yml") as config_file, open("index.md") as md_file:
     configs = yaml.load(config_file, Loader=yaml.FullLoader)
     body = md_file.read()
-
 # Build header
-header = f"# {configs['full_name']}\n"
+header = f"# {configs['full_name']}\n\n"
 
-links = []
-if configs["github"]:
-    links.append(f"[**Github**: {configs['github_url'].removeprefix('https://')}]({configs['github_url']})")
-if configs["gmail"]:
-    links.append(f"[**Email**: {configs['gmail_url']}](mailto:{configs['gmail_url']})")
-if configs["linkedin"]:
-    links.append(
-        f"[**LinkedIn**: {configs['linkedin_url'].removeprefix('https://')}]({configs['linkedin_url']})"
-    )
-if configs["phone"]:
-    links.append(
-        f"[**Phone**: {configs['phone_number']}](tel:{configs['phone_number']})"
-    )
+# links = []
+# if configs["github"]:
+#     links.append(f"**Github**: [{configs['github_url'].removeprefix('https://')}]({configs['github_url']})")
+# if configs["gmail"]:
+#     links.append(f"**Email**: [{configs['gmail_url']}](mailto:{configs['gmail_url']})")
+# if configs["linkedin"]:
+#     links.append(
+#         f"**LinkedIn**: [{configs['linkedin_url'].removeprefix('https://')}]({configs['linkedin_url']})"
+#     )
+# if configs["phone"]:
+#     links.append(
+#         f"**Phone**: [{configs['phone_number']}](tel:{configs['phone_number']})"
+#     )
 
-header += " | ".join(links)
+# # Join with hard line breaks (two trailing spaces before \n in Markdown)
+# header += "  \n".join(links) + "\n\n"
+
 
 # PDF conversion options
 extra_args = [
