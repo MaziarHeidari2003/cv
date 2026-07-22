@@ -1,5 +1,5 @@
 
-**Github**: [github.com/MaziarHeidary2003](https://github.com/MaziarHeidary2003) | **Email**: [maziarheidary1124@gmail.com](mailto:maziarheidary1124@gmail.com)  
+**Github**: [github.com/MaziarHeidari2003](https://github.com/MaziarHeidary2003) | **Email**: [maziarheidary1124@gmail.com](mailto:maziarheidary1124@gmail.com)  
 **LinkedIn**: [linkedin.com/in/maziar-heidary](https://ir.linkedin.com/in/maziar-heidary-176577380)
 
 ---
