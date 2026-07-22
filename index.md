@@ -40,7 +40,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 
 
 * [**Connect4**](https://github.com/MaziarHeidari2003/connect4): A **platform for the uni AI class** for the studnets to challenge their **algorithems** trying to win the game
-* [**Pure Python scheduler**](https://github.com/MaziarHeidari2003/pure_python_custom_scheduler): A **Python script** with the lowest overhead and deps to handle lots of tasks in a recomm system. A solution to the incompatibility of celery and rabbitMQ for long-term tasks
+* [**Pure Python scheduler**](https://github.com/MaziarHeidari2003/pure_python_custom_scheduler): A **Python script** with the lowest overhead and deps to handle lots of tasks in a recomm system
 
 * [**Quera Django Problems**](https://github.com/tahamusvi/quera-solutions): **Solving Quera Django problems** with full implementation of the django problems with simple explanation
 
