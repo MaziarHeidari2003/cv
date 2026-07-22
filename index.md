@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Backend Software Engineer with about **+2 years of experience** developing and maintaining high-traffic backend systems. Skilled in setting up **data pipelines**, organizing **background task queues**, and handling complex **payment integrations** for platforms with over **2 million users**. Remarkable track record of writing clean code and coordinating directly with external partners and payment providers. Proven track record in **technical support** and delivering scalable, distributed solutions in **Python**. Open to relocation with visa sponsorship.
+Backend Software Engineer with about **2 years of experience** developing and maintaining high-traffic backend systems. Skilled in setting up **data pipelines**, organizing **background task queues**, and handling complex **payment integrations** for platforms with over **2 million users**. Remarkable track record of writing clean code and coordinating directly with external partners and payment providers. Proven track record in **technical support** and delivering scalable, distributed solutions in **Python**. Open to relocation with visa sponsorship.
 
 --- 
 
