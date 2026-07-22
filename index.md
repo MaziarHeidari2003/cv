@@ -61,7 +61,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 ## Soft Skills
 
 * **Cross-Functional Communication**: Worked closely with customer support teams to rapidly troubleshoot and resolve production issues. The were lots refund or payment issues wich had to be checked as soon as possible 
-* **Supplier & Partner Coordination**: Directly managed communication with payment providers and suppliers to resolve complex refund discrepancies.
+* **Supplier & Partner Coordination**: Directly managed communication with payment providers and suppliers to resolve complex refund and payment issues.
 
 ---
 
