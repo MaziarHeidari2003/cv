@@ -42,25 +42,25 @@ Backend Software Engineer with about **3 years of experience** building and main
 ## Open Source
 
 * [**Connect4**](https://github.com/onionj/websocket-mux): A **Go WebSocket multiplexing library** for efficient real-time communications.
-* [**Pure Python scheduler**](https://github.com/onionj/ip): A **Go TCP server** that returns the client's IP and country in multiple formats.
+* [**Pure Python scheduler**](https://github.com/onionj/ip): A **Python script** with the lowest overhead and deps to handle lots of tasks in a recomm system
 
 ---
 
 ## Technical Skills
 
-* **Languages**: Python, Go
+* **Languages**: Python
 * **Frameworks & Protocols**: FastAPI, Django, REST, WebSocket
 * **Databases & Caching**: PostgreSQL, ClickHouse, Redis
 * **Messaging & Streaming**: RabbitMQ, Redis Streams
 * **Architecture**: Distributed systems, microservices, event-driven design
-* **DevOps**: Linux, Docker, Git, CI/CD
+* **DevOps**: Linux, Docker, Git, CI/CD (Good enough for dev usage)
 * **Security**: JWT
 
 ---
 
 ## Soft Skills
 
-* **Cross-Functional Communication**: Worked closely with customer support teams to rapidly troubleshoot and resolve production issues.
+* **Cross-Functional Communication**: Worked closely with customer support teams to rapidly troubleshoot and resolve production issues. The were lots refund or payment issues wich had to be checked as soon as possible 
 * **Supplier & Partner Coordination**: Directly managed communication with payment providers and suppliers to resolve complex refund discrepancies.
 * **Team Collaboration**: Recognized for a dependable, transparent, and collaborative engineering approach.
 
