@@ -67,7 +67,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 
 ## Education
 
-* **Bachelor of Science in Computer Engineering** — Shiraz University of Technology
+* **Bachelor of Computer Engineering** — Shiraz University of Technology
 
 ---
 
