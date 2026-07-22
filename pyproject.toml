@@ -8,8 +8,9 @@ packages = [{include = "maziar"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
-pypandoc = "^1.17"
 pyyaml = "^6.0.3"
+pypandoc-binary = "^1.17"
+pypandoc = {extras = ["tinytex"], version = "^1.17"}
 
 
 [build-system]
