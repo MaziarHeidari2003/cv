@@ -1,8 +1,7 @@
 # Maziar Heidary
 
 **Backend Software Engineer**  
-[GitHub](https://github.com/MaziarHeidari2003) | [LinkedIn](https://ir.linkedin.com/in/maziar-heidary-176577380) | [Email](mailto:maziarheidari1124@gmail.com)
-
+[GitHub](https://github.com/MaziarHeidary2003) | [Email](mailto:maziarheidary1124@gmail.com) | [LinkedIn](https://ir.linkedin.com/in/maziar-heidary-176577380)
 ---
 
 ## Professional Summary
