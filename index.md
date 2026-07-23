@@ -1,12 +1,12 @@
 
-**Github**: [github.com/MaziarHeidari2003](https://github.com/MaziarHeidary2003) | **Email**: [maziarheidary1124@gmail.com](mailto:maziarheidary1124@gmail.com)  
+**Github**: [github.com/MaziarHeidari2003](https://github.com/MaziarHeidari2003) | **Email**: [maziarheidary1124@gmail.com](mailto:maziarheidary1124@gmail.com)  
 **LinkedIn**: [linkedin.com/in/maziar-heidary](https://ir.linkedin.com/in/maziar-heidary-176577380)
 
 ---
 
 ## Professional Summary
 
-Backend Software Engineer with about **2 years of experience** developing and maintaining high-traffic backend systems. Skilled in setting up **data pipelines**, organizing **background task queues**, and handling complex **payment integrations** for platforms with over **2 million users**. Remarkable track record of writing clean code and coordinating directly with external partners and payment providers. Proven track record in **technical support** and delivering scalable, distributed solutions in **Python**. Open to relocation with visa sponsorship.
+Backend Software Engineer with **+2 years of experience** developing and maintaining high-traffic backend systems. Skilled in setting up **data pipelines**, organizing **background task queues**, and handling complex **payment integrations** for platforms with over **2 million users**. Remarkable track record of writing clean code and coordinating directly with external partners and payment providers. Proven track record in **technical support** and delivering scalable, distributed solutions in **Python**. Open to relocation with visa sponsorship.
 
 --- 
 
@@ -39,7 +39,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 ## Open Source
 
 
-* [**Connect4**](https://github.com/MaziarHeidari2003/connect4): A **platform for the uni AI class** for the studnets to challenge their **algorithems** trying to win the game
+* [**Connect4**](https://github.com/MaziarHeidari2003/connect4): A **platform for the uni AI class** for the students to challenge their **algorithems** trying to win the game
 * [**Pure Python scheduler**](https://github.com/MaziarHeidari2003/pure_python_custom_scheduler): A **Python script** with the lowest overhead and deps to handle lots of tasks in a recomm system
 
 * [**Quera Django Problems**](https://github.com/tahamusvi/quera-solutions): **Solving Quera Django problems** with full implementation of the django problems with simple explanation
@@ -60,7 +60,7 @@ Backend Software Engineer with about **2 years of experience** developing and ma
 
 ## Soft Skills
 
-* **Cross-Functional Communication**: Worked closely with customer support teams to rapidly troubleshoot and resolve production issues. The were lots refund or payment issues wich had to be checked as soon as possible 
+* **Cross-Functional Communication**: Worked closely with customer support teams to rapidly troubleshoot and resolve production issues. Solved lots refund or payment issues wich had to be checked as soon as possible 
 * **Supplier & Partner Coordination**: Directly managed communication with payment providers and suppliers to resolve complex refund and payment issues.
 
 ---
